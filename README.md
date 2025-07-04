@@ -2,6 +2,5 @@
 
 Calculator
 
-## Basic Calculator
 
 
